@@ -31,7 +31,7 @@
 - Dates in ISO format: YYYY-MM-DD
 - Game titles exactly as they appear on storefronts.
 - Sources listed in chronological order.
-- No editorializing in criteria checklists, use facts only (advocacy belongs in the skg-alignment.md doc, not rating cards).
+- No editorializing in criteria checklists, use facts only.
 
 ## Spec Changes
 
