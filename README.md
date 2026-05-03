@@ -51,9 +51,13 @@ This rating system serves to make that range clear and instantly understood to t
 
 ## Using VGPR
 
-Reference a rating in your own writing or project:
+To reference a rating in your own writing or project, link directly to the rating file:
 
-`[VGPR: p1, ON, DLS](https://github.com/yourname/game-eol-rating/blob/main/ratings/the-crew.md)`
+`[VGPR: p1 | ON, DLS](https://github.com/makovanilya/VGPR/blob/main/ratings/the-crew.md)`
+
+If no rating file exists yet, link to the repo root:
+
+`[VGPR: p5](https://github.com/makovanilya/VGPR)`
 
 Shield badges:
 
