@@ -1,3 +1,15 @@
+---
+game: "Quake"
+publisher: "GT Interactive, id Software"
+platform: ["MSDOS"]
+eol_date: "N/A"
+rating: "p5"
+tags: ["OS", "SDK", "SRV"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Quake
 **Rating:** p5, OS, SDK, SRV  
 **Spec version:** VGPR v1.0  
