@@ -1,4 +1,4 @@
-# Video Game Preservation Rating | VGPR
+# VGPR | Video Game Preservation Rating
 **A consumer rights focused classification system for game availability and preservation after official support ends.**
 
 > Aligned with the [Stop Killing Games](https://www.stopkillinggames.com) movement.
