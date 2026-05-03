@@ -1,5 +1,5 @@
 # [Game Title]
-**Rating:** [P1–P5 or NR], [modifiers]  
+**Rating:** [p1–p5 or NR], [modifiers]  
 **Spec version:** VGPR v1.0  
 **Rated:** [YYYY-MM-DD]  
 **Status:** [EoL confirmed / EoL pending / Still active]
