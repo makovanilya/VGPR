@@ -1,3 +1,15 @@
+---
+game: "Anthem"
+publisher: "EA"
+platform: ["PC", "PS4", "Xbox One"]
+eol_date: "2026-01-12"
+rating: "p1"
+tags: ["ON", "DLS"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Anthem
 **Rating:** p1, ON, DLS  
 **Spec version:** VGPR v1.0  
