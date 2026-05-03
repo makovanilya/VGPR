@@ -29,6 +29,7 @@ link_rewrites = {
     r"http://CRITERIA\.md":       "criteria.md",
     r"http://CHANGELOG\.md":      "changelog.md",
     r"http://README\.md":         "home.md",
+    r"\]\(docs/faq\.md\)": "](faq.md)",
 
     # github shortcuts
     r"\]\(issues\)":              "](https://github.com/makovanilya/VGPR/issues)",
