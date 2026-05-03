@@ -28,11 +28,11 @@
 
 ## Timeline
 
-- **2019** — Released (February 22, 2019) on PC, PS4, and Xbox One.
-- **2021-02** — Active development ceased. Anthem NEXT reboot cancelled, game enters maintenance mode.
-- **2025-07-03** — EA announces server shutdown. Game delisted from purchase on all storefronts, in-game currency purchases disabled.
-- **2025-08-15** — Removed from EA Play subscription and Xbox Game Pass, game became fully inaccessible to new players.
-- **2026-01-12** — Servers shut down. Game rendered completely and permanently unplayable, no offline patch issued.
+- **2019**: Released (February 22, 2019) on PC, PS4, and Xbox One.
+- **2021-02**: Active development ceased. Anthem NEXT reboot cancelled, game enters maintenance mode.
+- **2025-07-03**: EA announces server shutdown. Game delisted from purchase on all storefronts, in-game currency purchases disabled.
+- **2025-08-15**: Removed from EA Play subscription and Xbox Game Pass, game became fully inaccessible to new players.
+- **2026-01-12**: Servers shut down. Game rendered completely and permanently unplayable, no offline patch issued.
 
 ---
 
