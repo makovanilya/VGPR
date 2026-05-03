@@ -79,7 +79,7 @@ All ratings require sourced evidence. See [CRITERIA.md](CRITERIA.md) for exact d
 | File | Purpose |
 |------|---------|
 | [CRITERIA.md](CRITERIA.md) | Full falsifiable criteria for every tier and modifier |
-| [CONTRIBUTION.md](CONTRIBUTION.md) | How to submit and dispute ratings |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to submit and dispute ratings |
 | [docs/faq.md](docs/faq.md) | Common questions |
 | [CHANGELOG.md](CHANGELOG.md) | Spec version history |
 
