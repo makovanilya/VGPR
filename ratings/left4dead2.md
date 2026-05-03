@@ -1,3 +1,15 @@
+---
+game: "Left 4 Dead 2"
+publisher: "Valve"
+platform: ["PC (Windows)", "Xbox 360", "PC (macOS)", "PC (Linux)"]
+eol_date: "N/A"
+rating: "p4"
+tags: ["SDK", "SRV"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Left 4 Dead 2
 **Rating:** p4, SDK, SRV  
 **Spec version:** VGPR v1.0   
