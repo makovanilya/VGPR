@@ -1,3 +1,15 @@
+---
+game: "The Crew"
+publisher: "Ubisoft"
+platform: ["PC", "PS4", "Xbox One"]
+eol_date: "2024-03-31"
+rating: "p1"
+tags: ["ON", "DLS"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # The Crew
 **Rating:** p1, ON, DLS  
 **Spec version:** VGPR v1.0  
