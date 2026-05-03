@@ -1,8 +1,8 @@
 # SimCity (2013)
-**Rating:** p4, DRM 
-**Spec version:** VGPR v1.0  
+**Rating:** p4, DRM  
+**Spec version:** VGPR v1.0   
 **Rated:** 2026-05-03  
-**Status:** Still active (EoS)
+**Status:** Still active (EoS)  
 
 ---
 
