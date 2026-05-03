@@ -6,7 +6,7 @@
 > Spec version: `VGPR v1.0`
 
 What publishers do when ending support for their games may vary vastly, ranging from honoring the purchases to not even letting players keep the game in their digital libraries.
-This rating system serves to make that range clear and instantly understood.
+This rating system serves to make that range clear and instantly understood to the customers.
 
 ## The Scale
 
@@ -41,7 +41,7 @@ This rating system serves to make that range clear and instantly understood.
 | Game           | Rating | Tags     |
 |----------------|--------|----------|
 | The Crew       | p1     | ON, DLS  |
-| Anthem         | p1     | ON       |
+| Anthem         | p1     | ON, DLS  |
 | SimCity (2013) | p1     | DRM, DLS |
 | Left 4 Dead 2  | p5     | SDK      |
 | Quake          | p5     | OS       |
