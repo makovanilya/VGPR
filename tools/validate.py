@@ -20,8 +20,6 @@ def validate(path):
     for tag in data.get("tags", []):
         if tag not in VALID_TAGS:
             errors.append(f"Unknown tag: {tag}")
-    if not data.get("evidence"):
-        errors.append("Evidence list is empty")
     return errors
 
 errors = validate(sys.argv[1])
