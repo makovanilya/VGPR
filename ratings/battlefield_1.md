@@ -1,3 +1,15 @@
+---
+game: "Battlefield 1"
+publisher: "EA, Dice"
+platform: ["PC", "PS4", "Xbox One"]
+eol_date: "N/A"
+rating: "p4"
+tags: [""]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Battlefield 1
 **Rating:** p4  
 **Spec version:** VGPR v1.0  
