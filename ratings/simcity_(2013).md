@@ -1,3 +1,15 @@
+---
+game: "SimCity (2013)"
+publisher: "EA"
+platform: ["PC (Windows)", "PC (macOS)"]
+eol_date: "N/A"
+rating: "p4"
+tags: ["DRM"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # SimCity (2013)
 **Rating:** p4, DRM  
 **Spec version:** VGPR v1.0   
