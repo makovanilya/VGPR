@@ -1,0 +1,20 @@
+name: Validate ratings
+on:
+  pull_request:
+    paths: ["ratings/**"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - run: |
+          git diff --name-only origin/main...HEAD -- 'ratings/*.md' | \
+          grep -v 'INDEX.md\|TEMPLATE.md' | \
+          xargs -I{} python tools/validate.py {}
