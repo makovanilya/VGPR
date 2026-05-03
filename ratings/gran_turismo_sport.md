@@ -1,3 +1,15 @@
+---
+game: "Gran Turismo Sport"
+publisher: "Sony Interactive Entertainment"
+platform: ["PS4"]
+eol_date: "2024-01-31"
+rating: "p3"
+tags: ["ON", "DLS", "SP"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Gran Turismo Sport
 **Rating:** p3, ON, DLS, SP  
 **Spec version:** VGPR v1.0  
