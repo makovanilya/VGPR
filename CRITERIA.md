@@ -25,12 +25,12 @@ All of the following must be true:
 All of the following must be true:
 - [ ] Game is launchable.
 - [ ] Core experience is reachable but meaningfully compromised.
-- [ ] Significant paid or advertised content is inaccessible.
+- [ ] Significant paid or advertised content is inaccessible (DLCs, skins etc.).
 - [ ] No community solution fully restores the experience.
 
 ### p2
 All of the following must be true:
-- [ ] Game technically launches.
+- [ ] Game technically launches and displays playable content beyond a server connection screen.
 - [ ] Core experience is broken or requires workarounds.
 - [ ] Essential functions depend on infrastructure that no longer exists.
 - [ ] No official or community solution restores playability.
@@ -74,7 +74,7 @@ Developer issued a patch before or at shutdown that made the game functional wit
 - Must restore meaningful offline functionality.
 
 **ON: Online-Oriented**  
-Online play is the core design intent of the game.
+Online play is the core design intent of the game, effects scoring ONLY if publishers did not properly handle it.
 - Applies to genres such as MMOs, live-service games, battle royales, online-only co-op games.
 - Does NOT apply to singleplayer games with optional multiplayer or games with always online DRM bolted on.
 
