@@ -41,4 +41,4 @@
 - https://en.wikipedia.org/wiki/Battlefield_Heroes
 - https://www.pcgamingwiki.com/wiki/Battlefield_Heroes
 - https://www.cinemablend.com/games/EA-Shutting-Down-Battlefield-Heroes-Other-Free-Play-Games-71329.html
-- 
+- https://www.gamespot.com/articles/ea-closing-battlefield-heroes-need-for-speed-world/1100-6426649/
