@@ -27,9 +27,9 @@
 ---
 
 ## Timeline
-- **[YEAR]** — Released
-- **[YYYY-MM-DD]** — [Key event]
-- **[YYYY-MM-DD]** — EoL / servers shut down
+- **[YEAR]**: Released
+- **[YYYY-MM-DD]**: [Key event]
+- **[YYYY-MM-DD]**: EoL / servers shut down
 
 ---
 
