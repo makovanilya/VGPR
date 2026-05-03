@@ -68,7 +68,7 @@ Shield badges:
 
 - Submit a rating → [open an issue](../../issues)
 - Dispute a rating → [open a discussion](../../discussions)
-- Read the full rules → [CONTRIBUTIon.md](CONTRIBUTIon.md)
+- Read the full rules → [CONTRIBUTION.md](CONTRIBUTION.md)
 
 All ratings require sourced evidence. See [CRITERIA.md](CRITERIA.md) for exact definitions.
 
@@ -79,7 +79,7 @@ All ratings require sourced evidence. See [CRITERIA.md](CRITERIA.md) for exact d
 | File | Purpose |
 |------|---------|
 | [CRITERIA.md](CRITERIA.md) | Full falsifiable criteria for every tier and modifier |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to submit and dispute ratings |
+| [CONTRIBUTION.md](CONTRIBUTION.md) | How to submit and dispute ratings |
 | [docs/faq.md](docs/faq.md) | Common questions |
 | [CHANGELOG.md](CHANGELOG.md) | Spec version history |
 
