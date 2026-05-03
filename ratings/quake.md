@@ -27,12 +27,12 @@
 ---
 
 ## Timeline
-**1996-06-22** — Released for MS-DOS; QuakeC source and compiler tools released publicly.  
-**1996** — QuakeWorld released by id Software, providing dedicated server software and improved netplay.  
-**1997-01-22** — GLQuake released, first official hardware-accelerated port.  
-**1999-12-22** — Source code of Quake released under GPLv2, spawning dozens of source ports (Quakespasm, vkQuake, Ironwail, FTEQW, and many more).  
-**2007-05-31** — Released on Steam.  
-**2021-08-19** — id Software and Nightdive Studios released a remaster for Quake, a free update to those who owned the game on Steam or GOG.  
+**1996-06-22**: Released for MS-DOS; QuakeC source and compiler tools released publicly.  
+**1996**: QuakeWorld released by id Software, providing dedicated server software and improved netplay.  
+**1997-01-22**: GLQuake released, first official hardware-accelerated port.  
+**1999-12-22**: Source code of Quake released under GPLv2, spawning dozens of source ports (Quakespasm, vkQuake, Ironwail, FTEQW, and many more).  
+**2007-05-31**: Released on Steam.  
+**2021-08-19**: id Software and Nightdive Studios released a remaster for Quake, a free update to those who owned the game on Steam or GOG.  
 
 ---
 
