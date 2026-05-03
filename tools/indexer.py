@@ -17,6 +17,7 @@ link_rewrites = {
     # ratings index
     r"https://makovanilya\.github\.io/VGPR/#/ratings/": "ratings.md",
     r"ratings/_index\.md":        "ratings.md",
+    r"\]\(ratings/\)": "](ratings.md)",
 
     # license
     r"\]\(LICENSE\)":             "](https://creativecommons.org/publicdomain/zero/1.0/)",
