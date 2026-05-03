@@ -84,7 +84,7 @@ You can also include tags in the badge label:
 
 - Submit a rating → [open an issue](../../issues)
 - Dispute a rating → [open a discussion](../../discussions)
-- Read the full rules → [CONTRIBUTION.md](CONTRIBUTION.md)
+- Read the full rules → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 All ratings require sourced evidence. See [CRITERIA.md](CRITERIA.md) for exact definitions.
 
