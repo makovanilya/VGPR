@@ -1,3 +1,15 @@
+---
+game: "Forza Horizon 4"
+publisher: "Microsoft Studios"
+platform: ["PC", "Xbox One"]
+eol_date: "N/A"
+rating: "p4"
+tags: ["DLS"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Forza Horizon 4
 **Rating:** p4, DLS   
 **Spec version:** VGPR v1.0  
