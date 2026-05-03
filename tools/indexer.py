@@ -36,4 +36,5 @@ for r in ratings:
     rows.append(f"| {link} | {r['rating']} | {tags} | {r.get('eol_date','')} |")
 
 Path("ratings/_index.md").write_text("\n".join(rows))
+shutil.copy("ratings/_index.md", "docs/ratings.md")
 print(f"Indexed {len(ratings)} ratings.")
