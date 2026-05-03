@@ -4,7 +4,7 @@ from pathlib import Path
 files_to_copy = [
     ("README.md",       "docs/home.md"),
     ("CRITERIA.md",     "docs/criteria.md"),
-    ("CONTRIBUTION.md", "docs/contributing.md"),
+    ("CONTRIBUTING.md", "docs/contributing.md"),
     ("CHANGELOG.md",    "docs/changelog.md"),
 ]
 for src, dst in files_to_copy:
