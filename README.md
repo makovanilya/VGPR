@@ -43,7 +43,7 @@ This rating system serves to make that range clear and instantly understood to t
 | The Crew       | p1     | ON, DLS  |
 | Anthem         | p1     | ON, DLS  |
 | SimCity (2013) | p4     | DRM      |
-| Left 4 Dead 2  | p5     | SDK      |
+| Left 4 Dead 2  | p4     | SDK, SRV |
 | Quake          | p5     | OS       |
 
 [→ See all ratings](ratings/)
