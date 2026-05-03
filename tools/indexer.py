@@ -18,7 +18,7 @@ link_rewrites = {
 for src, dst in files_to_copy:
     if Path(src).exists():
         text = Path(src).read_text(encoding="utf-8")
-        for pattern, replacement in LINK_REWRITES.items():
+        for pattern, replacement in link_rewrites.items():
             text = re.sub(pattern, replacement, text)
         Path(dst).write_text(text, encoding="utf-8")
         print(f"Copied + rewrote {src} -> {dst}")
