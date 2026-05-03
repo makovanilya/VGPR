@@ -57,9 +57,30 @@ Reference a rating in your own writing or project:
 
 Shield badges:
 
-[![VGPR: p1](https://img.shields.io/badge/VGPR-p1-critical)](link)
-[![VGPR: p5](https://img.shields.io/badge/VGPR-p5-brightgreen)](link)
-[![VGPR: NR](https://img.shields.io/badge/VGPR-NR-lightgrey)](link)
+[![VGPR: p5](https://img.shields.io/badge/VGPR-p5-brightgreen)](https://github.com/makovanilya/VGPR)
+[![VGPR: p4](https://img.shields.io/badge/VGPR-p4-green)](https://github.com/makovanilya/VGPR)
+[![VGPR: p3](https://img.shields.io/badge/VGPR-p3-yellow)](https://github.com/makovanilya/VGPR)
+[![VGPR: p2](https://img.shields.io/badge/VGPR-p2-orange)](https://github.com/makovanilya/VGPR)
+[![VGPR: p1](https://img.shields.io/badge/VGPR-p1-critical)](https://github.com/makovanilya/VGPR)
+[![VGPR: NR](https://img.shields.io/badge/VGPR-NR-lightgrey)](https://github.com/makovanilya/VGPR)
+
+Link to the specific rating file when one exists:
+
+```markdown
+[![VGPR: p1](https://img.shields.io/badge/VGPR-p1-critical)](https://github.com/makovanilya/VGPR/blob/main/ratings/the-crew.md)
+```
+
+Or link to the repo root if no file exists yet:
+
+```markdown
+[![VGPR: p5](https://img.shields.io/badge/VGPR-p5-brightgreen)](https://github.com/makovanilya/VGPR)
+```
+
+You can also include tags in the badge label:
+
+```markdown
+[![VGPR: p1 | DLS](https://img.shields.io/badge/VGPR-p1_%7C_DLS-critical)](https://github.com/makovanilya/VGPR/blob/main/ratings/the-crew.md)
+```
 
 ---
 
