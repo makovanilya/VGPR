@@ -82,9 +82,9 @@ You can also include tags in the badge label:
 
 ## Contributing
 
-- Submit a rating → [open an issue](../../issues)
-- Dispute a rating → [open a discussion](../../discussions)
-- Read the full rules → [CONTRIBUTING.md](CONTRIBUTING.md)
+- Submit a rating → [open an issue](https://github.com/makovanilya/VGPR/issues)
+- Dispute a rating → [open a discussion](https://github.com/makovanilya/VGPR/discussions)
+- Read the full rules → [contributing.md](contributing.md)
 
 All ratings require sourced evidence. See [criteria.md](criteria.md) for exact definitions.
 
@@ -95,7 +95,7 @@ All ratings require sourced evidence. See [criteria.md](criteria.md) for exact d
 | File | Purpose |
 |------|---------|
 | [criteria.md](criteria.md) | Full falsifiable criteria for every tier and modifier |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to submit and dispute ratings |
+| [contributing.md](contributing.md) | How to submit and dispute ratings |
 | [docs/faq.md](docs/faq.md) | Common questions |
 | [changelog.md](changelog.md) | Spec version history |
 
@@ -103,5 +103,5 @@ All ratings require sourced evidence. See [criteria.md](criteria.md) for exact d
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — Public domain. 
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — Public domain. 
 Use freely, no attribution required.
