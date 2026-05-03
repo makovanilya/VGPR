@@ -45,7 +45,7 @@ This rating system serves to make that range clear and instantly understood to t
 | Left 4 Dead 2  | p4     | SDK, SRV, DRM |
 | Quake          | p5     | OS, SDK, SRV  |
 
-[→ See all ratings](ratings/)
+[→ See all ratings](ratings.md)
 
 ---
 
