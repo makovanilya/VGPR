@@ -1,8 +1,8 @@
 # Anthem
-**Rating:** p1, ON, DLS
-**Spec version:** VGPR v1.0
-**Rated:** 2026-05-03
-**Status:** EoL confirmed
+**Rating:** p1, ON, DLS  
+**Spec version:** VGPR v1.0  
+**Rated:** 2026-05-03  
+**Status:** EoL confirmed  
 
 ---
 
