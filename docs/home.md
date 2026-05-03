@@ -82,11 +82,11 @@ You can also include tags in the badge label:
 
 ## Contributing
 
-- Submit a rating → [open an issue](https://github.com/makovanilya/VGPR/issues)
-- Dispute a rating → [open a discussion](https://github.com/makovanilya/VGPR/discussions)
-- Read the full rules → [CONTRIBUTING.md](https://makovanilya.github.io/VGPR/#/contributing)
+- Submit a rating → [open an issue](../../issues)
+- Dispute a rating → [open a discussion](../../discussions)
+- Read the full rules → [CONTRIBUTING.md](CONTRIBUTING.md)
 
-All ratings require sourced evidence. See [CRITERIA.md](https://makovanilya.github.io/VGPR/#/criteria) for exact definitions.
+All ratings require sourced evidence. See [criteria.md](criteria.md) for exact definitions.
 
 ---
 
@@ -94,10 +94,10 @@ All ratings require sourced evidence. See [CRITERIA.md](https://makovanilya.gith
 
 | File | Purpose |
 |------|---------|
-| [CRITERIA.md](https://makovanilya.github.io/VGPR/#/criteria) | Full falsifiable criteria for every tier and modifier |
-| [CONTRIBUTING.md](https://makovanilya.github.io/VGPR/#/contributing) | How to submit and dispute ratings |
-| [docs/faq.md](https://makovanilya.github.io/VGPR/#/faq)| Common questions |
-| [CHANGELOG.md](https://makovanilya.github.io/VGPR/#/changelog) | Spec version history |
+| [criteria.md](criteria.md) | Full falsifiable criteria for every tier and modifier |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to submit and dispute ratings |
+| [docs/faq.md](docs/faq.md) | Common questions |
+| [changelog.md](changelog.md) | Spec version history |
 
 ---
 
