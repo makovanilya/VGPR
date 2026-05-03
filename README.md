@@ -23,7 +23,6 @@ This rating system serves to make that range clear and instantly understood to t
 
 ## Modifiers
 
-### Preservation
 | Tag   | Meaning                                          |
 |-------|--------------------------------------------------|
 | OS    | Source code officially released                  |
