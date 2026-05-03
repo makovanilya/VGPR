@@ -40,7 +40,7 @@ This rating system serves to make that range clear and instantly understood.
 
 | Game           | Rating | Tags     |
 |----------------|--------|----------|
-| The Crew       | p1     | DLS      |
+| The Crew       | p1     | ON, DLS  |
 | Anthem         | p1     | ON       |
 | SimCity (2013) | p1     | DRM, DLS |
 | Left 4 Dead 2  | p5     | SDK      |
