@@ -96,7 +96,7 @@ All ratings require sourced evidence. See [criteria.md](criteria.md) for exact d
 |------|---------|
 | [criteria.md](criteria.md) | Full falsifiable criteria for every tier and modifier |
 | [contributing.md](contributing.md) | How to submit and dispute ratings |
-| [docs/faq.md](docs/faq.md) | Common questions |
+| [docs/faq.md](faq.md) | Common questions |
 | [changelog.md](changelog.md) | Spec version history |
 
 ---
