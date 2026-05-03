@@ -51,14 +51,6 @@ This rating system serves to make that range clear and instantly understood to t
 
 ## Using VGPR
 
-To reference a rating in your own writing or project, link directly to the rating file:
-
-`[VGPR: p1 | ON, DLS](https://github.com/makovanilya/VGPR/blob/main/ratings/the-crew.md)`
-
-If no rating file exists yet, link to the repo root:
-
-`[VGPR: p5](https://github.com/makovanilya/VGPR)`
-
 Shield badges:
 
 [![VGPR: p5](https://img.shields.io/badge/VGPR-p5-brightgreen)](https://github.com/makovanilya/VGPR)
