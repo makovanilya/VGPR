@@ -27,11 +27,11 @@
 ---
 
 ## Timeline
-- **2009-11-17** — Released on Windows and Xbox 360.
-- **2010** — L4D2 Authoring Tools released on Steam. A macOS port was also released.
-- **2013-07-02** — Linux port released
-- **2020-09-24** — "The Last Stand" update was released: A community-made content update officially shipped by Valve; adding a new campaign, weapons, bug fixes, and restored cut content.
-- **2026-05-03** — Servers still active, game still purchasable on Steam.
+- **2009-11-17**: Released on Windows and Xbox 360.
+- **2010**: L4D2 Authoring Tools released on Steam. A macOS port was also released.
+- **2013-07-02**: Linux port released
+- **2020-09-24**: "The Last Stand" update was released: A community-made content update officially shipped by Valve; adding a new campaign, weapons, bug fixes, and restored cut content.
+- **2026-05-03**: Servers still active, game still purchasable on Steam.
 
 ---
 
