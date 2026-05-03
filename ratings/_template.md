@@ -16,13 +16,13 @@
 - [ ] Consumer licenses has been rendered void or inaccessible.
 
 ### Modifiers applied
-- [ ] ON — Online-oriented design (reason: ).
-- [ ] DRM — Always-online DRM with no gameplay justification.
-- [ ] DLS — Delisted from all major storefronts.
-- [ ] OS — Source code officially released.
-- [ ] SDK — Full dev/modding toolkit released.
-- [ ] SRV — Dedicated server binaries released.
-- [ ] SP — A sunset patch was issued.
+- [ ] ON: Online-oriented design (reason: ).
+- [ ] DRM: Always-online DRM with no gameplay justification.
+- [ ] DLS: Delisted from all major storefronts.
+- [ ] OS: Source code officially released.
+- [ ] SDK: Full dev/modding toolkit released.
+- [ ] SRV: Dedicated server binaries released.
+- [ ] SP: A sunset patch was issued.
 
 ---
 
