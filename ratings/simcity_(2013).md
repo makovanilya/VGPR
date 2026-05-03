@@ -27,10 +27,10 @@
 ---
 
 ## Timeline
-- **2013** — Released with mandatory always-online DRM, infamously severe server failures at launch.
-- **2014-03-18** — Update 10 introduced an offline mode toggle, allowing the player to play in singleplayer whenever.
-- **2018** — Game no longer recieves updates (EoS).
-- **2026-05-03** — Still active.
+- **2013**: Released with mandatory always-online DRM, infamously severe server failures at launch.
+- **2014-03-18**: Update 10 introduced an offline mode toggle, allowing the player to play in singleplayer whenever.
+- **2018**: Game no longer recieves updates (EoS).
+- **2026-05-03**: Still active.
 
 ---
 
