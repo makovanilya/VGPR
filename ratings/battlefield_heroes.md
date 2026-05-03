@@ -1,3 +1,15 @@
+---
+game: "Battlefield Heroes"
+publisher: "EA"
+platform: ["PC (Microsoft Windows)"]
+eol_date: "2015-07-14"
+rating: "p1"
+tags: ["ON"]
+reviewed_by: "makovanilya"
+last_updated: "2026-05-03"
+version: "VGPR v1.0"
+---
+
 # Battlefield Heroes
 **Rating:** p1, ON  
 **Spec version:** VGPR v1.0  
