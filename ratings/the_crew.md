@@ -27,9 +27,9 @@
 ---
 
 ## Timeline
-- **2014** — Released
-- **2023-12-14** — Ubisoft delists The Crew and its expansions from digital platforms.
-- **2024-03-31** — EoL / servers shut down
+- **2014**: Released
+- **2023-12-14**: Ubisoft delists The Crew and its expansions from digital platforms.
+- **2024-03-31**: EoL / servers shut down
 
 ---
 
