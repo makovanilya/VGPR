@@ -1,0 +1,6 @@
+- [Home](/)
+- [Criteria](/CRITERIA.md)
+- [How to contribute](/CONTRIBUTION.md)
+- [FAQ](/docs/faq.md)
+- [All ratings](/ratings/INDEX.md)
+- [Changelog](/CHANGELOG.md)
