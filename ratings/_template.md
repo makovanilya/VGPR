@@ -1,3 +1,15 @@
+---
+game: ""
+publisher: ""
+platform: [""]
+eol_date: ""
+rating: ""
+tags: [""]
+reviewed_by: ""
+last_updated: ""
+version: "VGPR v1.0"
+---
+
 # [Game Title]
 **Rating:** [p1–p5 or NR], [modifiers]  
 **Spec version:** VGPR v1.0  
