@@ -17,7 +17,7 @@ This rating system serves to make that range clear and instantly understood.
 | p3     | Notable content loss, core experience reachable      |
 | p2     | Barely functional, broken without dead servers       |
 | p1     | Deliberately destroyed, no recourse for consumer     |
-| NR     | EoL not reached, or pending review                   |
+| NR     | EoL not reached or pending review                   |
 
 ---
 
@@ -29,10 +29,10 @@ This rating system serves to make that range clear and instantly understood.
 | OS    | Source code officially released                  |
 | SDK   | Full dev/modding toolkit released                |
 | SRV   | Dedicated server binaries released               |
-| SP    | Sunset patch issued — game made offline-capable  |
-| ON    | Online-oriented — online is the core design intent         |
+| SP    | Sunset patch issued, game made offline-capable  |
+| ON    | Online-oriented, online is the core design intent         |
 | DRM   | Always-online DRM with no gameplay justification           |
-| DLS   | Delisted — cannot be legally acquired by new players       |
+| DLS   | Delisted and cannot be legally acquired by new players       |
 
 ---
 
