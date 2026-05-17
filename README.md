@@ -1,8 +1,7 @@
 # VGPR | Video Game Preservation Rating
 **A consumer rights focused classification system for game availability and preservation after official support ends.**
 
-> Aligned with the [Stop Killing Games](https://www.stopkillinggames.com) movement.
-> campaign and EU consumer protection advocacy.  
+> Aligned with the [Stop Killing Games](https://www.stopkillinggames.com) movement campaign and EU consumer protection advocacy.  
 > Spec version: `VGPR v1.0`
 
 What publishers do when ending support for their games may vary vastly, ranging from honoring the purchases to not even letting players keep the game in their digital libraries.
